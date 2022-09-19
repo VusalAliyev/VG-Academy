@@ -1,0 +1,6 @@
+.appCourses{
+display: flex;
+width: 80%;
+margin: auto;
+gap: 5%;
+}
