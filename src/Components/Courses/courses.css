@@ -5,7 +5,7 @@
 }
 .course-container{
     margin-top: 16vh;
-    height: 450px;
+    height: 410px;
     border:solid 1px;
     background: #6466D1E5;
     box-shadow: 0px 4px 30px #6466D1;
@@ -26,4 +26,10 @@ color: #FFFFFF;
 }
 .course-desc p{
     color:#FFFFFF
+}
+.course-top{
+    text-align: center;
+}
+.course-top img{
+    width:265px;
 }

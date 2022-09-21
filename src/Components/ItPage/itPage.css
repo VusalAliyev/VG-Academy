@@ -1,0 +1,48 @@
+.itContainer{
+    width: 80%;
+    margin: auto;
+    height: 200vh;
+    }
+/* 1st page */
+.itContainer1{
+height: 100vh;
+border:solid 1px red;
+display: flex;
+}
+.it1Left{
+    background-image: url("../Images/it-ellipse1.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 850px;
+    width: 50%;
+    text-align:start;
+}
+.it1Left img{
+    height: 80%;
+    padding-top:15%;
+    padding-left:5em;
+}
+.it1LeftParagraph{
+    position: absolute;
+    margin-top: 3em;
+}
+.it1LeftParagraph p:first-child{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    width: 1em;
+}
+.it1LeftParagraph p:last-child{
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    width: 7em;
+}
+.it2Left{
+    width: 50%;
+}
+.itContainer2{
+    height: 100vh;
+    border:solid 1px dodgerblue;
+}

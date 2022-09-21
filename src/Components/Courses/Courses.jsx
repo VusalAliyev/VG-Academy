@@ -6,7 +6,7 @@ const Courses = (props) => {
         <div className='courses-container'>
             <div className="course-container">
                 <div className="course-top">
-                <img src={require('../Images/Fortune_future___Seed_Spark-removebg-preview1.png')} alt="" srcset="" />
+                <img src={require('../Images/course1.png')} alt="" srcset="" />
                 </div>
                 <div className="course-bottom">
                     <div className="course-title">
