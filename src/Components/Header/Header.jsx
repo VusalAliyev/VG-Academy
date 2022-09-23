@@ -14,7 +14,7 @@ const Header = () => {
         <li><a href="#">Əlaqə</a></li>
         <li><a href="#">AZ</a></li>
       </ul>
-      <a className="button-text" href="#"><button>Giriş</button></a>
+      <a className="button-text"  href="#"><button>Giriş</button></a>
      </nav>
 
     </div>

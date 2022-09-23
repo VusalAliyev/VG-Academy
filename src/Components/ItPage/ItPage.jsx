@@ -11,7 +11,9 @@ const ItPage = () => {
           </div>
           <img src={require('../Images/it-emoji1.png')} alt="" srcset="" /> 
         </div>
-        <div className="it2Left"></div>
+        <div className="it1Right">
+          
+        </div>
       </div>
       <div className="itContainer2"></div>
     </div>
