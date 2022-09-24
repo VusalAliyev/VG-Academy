@@ -3,19 +3,21 @@ import "../loginSign/signup.css"
 
 const Signup = () => {
   return (
-    <form className='loginContainer'>
-    <p className='loginTitle'>Qeydiyyat</p>
-    <div className="loginInput">
-      <label htmlFor="">E-    mail</label>
+    <form className='signupContainer'>
+    <p className='signupTitle'>Qeydiyyat</p>
+    <div className="signupInput">
+      <label htmlFor="">E-mail</label>
       <input type="text" name="" id="" />
     </div>
-    <div className="loginInput">
+    <div className="signupInput">
       <label htmlFor="">Şifrə </label>
       <input type="text" name="" id="" />
     </div>
-    <button>Daxil ol</button>
-    <a href="#" className='forgetPwd'>Şifrəmi Unutdum</a>
-    <a href="#" className='register'>Qeydiyyatdan keç</a>
+    <div className="signupInput">
+      <label htmlFor="">Şifrəni təsdiq et </label>
+      <input type="text" name="" id="" />
+    </div>
+    <button className='confirmBtn'>Tamamla</button>
   </form>
   )
 }

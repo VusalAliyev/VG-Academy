@@ -21,7 +21,7 @@ const App = () => {
        </div>
        <ItPage/>
        <Login/>
-       {/* <Signup/> */}
+       <Signup/>
       {/* <Test/> */}
     </div>
   )
